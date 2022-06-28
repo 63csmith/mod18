@@ -1,0 +1,23 @@
+{
+  "name": "mod18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/63csmith/mod18.git"
+  },
+  "author": "chris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/63csmith/mod18/issues"
+  },
+  "homepage": "https://github.com/63csmith/mod18#readme",
+  "dependencies": {
+    "mongoose": "^6.4.1",
+    "nodemon": "^2.0.18"
+  }
+}
